@@ -41,8 +41,7 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 
 # INSIGHTS 
 
-1. Prices by Property Type (Bar Graph)
-   
+1. Prices by Property Type (Bar Graph)   
 **Question:** Which property type is the most expensive, and which is the most affordable?
 
 **Interpretation** Entire home/apt" listings are the most expensive, whereas "Room in a hotel" appears to be among the more affordable options.
