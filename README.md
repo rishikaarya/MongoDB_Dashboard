@@ -41,11 +41,13 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 
 # INSIGHTS 
 
-1. Prices by Property Type (Bar Graph)   
+1. Prices by Property Type (Bar Graph)
+    
 **Question:** Which property type is the most expensive, and which is the most affordable?
+
 **Interpretation** Entire home/apt" listings are the most expensive, whereas "Room in a hotel" appears to be among the more affordable options.
 
-2. Top 5 Neighborhoods by Total Number of Reviews
+3. Top 5 Neighborhoods by Total Number of Reviews
    
 **Question:** Which neighborhoods attract the most guest feedback?
 
@@ -129,12 +131,16 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 
 **Interpretation:** Larger capacities are found in "Entire home/apt" listings, while shared spaces accommodate fewer guests.
 
-18. Count of Properties Without a License
+17. Count of Properties Without a License
+    
 **Question:** How many properties lack proper licensing?
+
 **Interpretation:** A significant number (7,075) of properties are unlicensed, raising questions about regulatory compliance.
 
-19. Most Common Bathroom Count
+18. Most Common Bathroom Count
+    
 **Question:** What is the standard bathroom availability in listings?
+
 **Interpretation:** A single bathroom is the most common configuration, aligning with the dominance of smaller accommodations.
 
 
