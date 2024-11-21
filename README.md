@@ -1,14 +1,14 @@
 # MongoDB_Dashboard
 
-Description
+**Description**
 
 This dataset provides extensive information about Airbnb properties listed in Los Angeles, California. It offers a wealth of details suitable for analyzing short-term rental trends, exploring traveler behavior, and studying pricing dynamics within one of the most vibrant tourism markets in the U.S.
 
-Dataset Context and Purpose
+**Dataset Context and Purpose**
 
 As Airbnb continues to impact urban rental markets, this dataset allows analysts, researchers, and real estate professionals to investigate how the short-term rental market shapes the local economy and influences housing availability. Users can leverage this dataset to perform location-based analysis, identify seasonal occupancy trends, and explore the popularity of amenities and property types.
 
-Content
+**Content**
 
 id: Unique identifier assigned to each property listing.
 name: Property listing name as provided by the host.
