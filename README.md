@@ -1,4 +1,4 @@
-# MongoDB_Dashboard
+# ABOUT THE DATASET 
 
 **Description**
 
@@ -10,9 +10,8 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 
 **Content**
 
-id: Unique identifier assigned to each property listing.
-
-name: Property listing name as provided by the host.
+1. id: Unique identifier assigned to each property listing.
+2. name: Property listing name as provided by the host.
 
 host_id:Unique identifier assigned to the host of the property.
 
