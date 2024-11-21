@@ -55,9 +55,9 @@ Interpretation: Hollywood leads with the highest reviews, indicating its popular
 
 **3. Distribution of Room Types (Donut Chart)**
    
-**Question:** What is the most common room type offered in Los Angeles Airbnb listings?
+Question: What is the most common room type offered in Los Angeles Airbnb listings?
 
-**Interpretation:** The majority of listings are "Entire home/apt," which suggests that visitors prefer privacy over shared spaces.
+Interpretation: The majority of listings are "Entire home/apt," which suggests that visitors prefer privacy over shared spaces.
 
 **4. Top 5 Hosts by Number of Listings (Bar Graph)**
    
