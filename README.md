@@ -36,7 +36,7 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 24. license: License, if applicable.
 25. instant_bookable: Indicates whether guests can book the property instantly (True/False).
 
-# DASHBOARD (MONGO DB ATLAS)
+# DASHBOARD (MongoDB ATLAS)
 ![Los Angeles Airbnb Listing](https://github.com/user-attachments/assets/a34b9105-d8de-455c-a19c-42758efa7cc3)
 
 # INSIGHTS 
