@@ -1,4 +1,4 @@
-# MongoDB DASHBOARD ON AIRBNB PROPERTIES IN LA
+# AIRBNB PROPERTIES IN LA
 
 **ABOUT THE DATASET**
 
@@ -38,10 +38,10 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 24. license: License, if applicable.
 25. instant_bookable: Indicates whether guests can book the property instantly (True/False).
 
-# DASHBOARD (MongoDB ATLAS)
+**DASHBOARD (MongoDB ATLAS)**
 ![Los Angeles Airbnb Listings-2](https://github.com/user-attachments/assets/8724d846-7fa3-42d7-92fa-45a0b6ebb674)
 
-# INSIGHTS 
+**INSIGHTS** 
 
 **1. Prices by Property Type (Bar Graph)**
     
@@ -145,7 +145,7 @@ Question: What is the standard bathroom availability in listings?
 
 Interpretation: A single bathroom is the most common configuration, aligning with the dominance of smaller accommodations.
 
-# MANAGERIAL IMPLICATIONS 
+**MANAGERIAL IMPLICATIONS** 
 
 **1. Focus on Guest Preferences:** Prioritize listings that align with guest demand, such as entire homes/apartments and properties in high-demand neighborhoods like Hollywood and Venice.
 
@@ -167,7 +167,7 @@ Interpretation: A single bathroom is the most common configuration, aligning wit
 
 **10. Maximize Review Volume:** Actively encourage guests to leave reviews, as they significantly impact property visibility and perceived trustworthiness.
 
-# CONCLUSION
+**CONCLUSION**
 1. Entire homes/apartments dominate the listings and are the most expensive property type.
 2. Hollywood, Santa Monica, and Venice are the most reviewed neighborhoods, reflecting their tourism appeal.
 3. Properties with superhosts and instant booking features have higher ratings.
