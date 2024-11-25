@@ -56,9 +56,11 @@ This dataset provides extensive information about Airbnb properties listed in Lo
 
 **25. instant_bookable:** Indicates whether guests can book the property instantly (True/False).
 
+
 **DASHBOARD (MongoDB ATLAS)**
 
 ![Los Angeles Airbnb Listings-2](https://github.com/user-attachments/assets/8724d846-7fa3-42d7-92fa-45a0b6ebb674)
+
 
 **INSIGHTS** 
 
@@ -164,6 +166,7 @@ Question: What is the standard bathroom availability in listings?
 
 Interpretation: A single bathroom is the most common configuration, aligning with the dominance of smaller accommodations.
 
+
 **MANAGERIAL IMPLICATIONS** 
 
 **1. Focus on Guest Preferences:** Prioritize listings that align with guest demand, such as entire homes/apartments and properties in high-demand neighborhoods like Hollywood and Venice.
@@ -185,6 +188,7 @@ Interpretation: A single bathroom is the most common configuration, aligning wit
 **9. Build Trust and Reliability:** Prioritize high-quality service, seamless guest communication, and reliability to foster long-term guest loyalty.
 
 **10. Maximize Review Volume:** Actively encourage guests to leave reviews, as they significantly impact property visibility and perceived trustworthiness.
+
 
 **CONCLUSION**
 
