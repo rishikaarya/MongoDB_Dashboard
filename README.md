@@ -1,16 +1,10 @@
-# AIRBNB PROPERTIES IN LA
+# AIRBNB PROPERTIES DASHBOARD
 
 **ABOUT THE DATASET**
 
-**Description**
+This dataset provides extensive information about Airbnb properties listed in Los Angeles, California. It offers a wealth of details suitable for analyzing short-term rental trends, exploring traveler behavior, and studying pricing dynamics within one of the most vibrant tourism markets in the U.S. As airbnb continues to impact urban rental markets, this dataset allows analysts, researchers, and real estate professionals to investigate how the short-term rental market shapes the local economy and influences housing availability. Users can leverage this dataset to perform location-based analysis, identify seasonal occupancy trends, and explore the popularity of amenities and property types.
 
-This dataset provides extensive information about Airbnb properties listed in Los Angeles, California. It offers a wealth of details suitable for analyzing short-term rental trends, exploring traveler behavior, and studying pricing dynamics within one of the most vibrant tourism markets in the U.S.
-
-**Dataset Context and Purpose**
-
-As Airbnb continues to impact urban rental markets, this dataset allows analysts, researchers, and real estate professionals to investigate how the short-term rental market shapes the local economy and influences housing availability. Users can leverage this dataset to perform location-based analysis, identify seasonal occupancy trends, and explore the popularity of amenities and property types.
-
-**Content**
+**CONTENT**
 
 1. id: Unique identifier assigned to each property listing.
 2. name: Property listing name as provided by the host.
@@ -39,6 +33,7 @@ As Airbnb continues to impact urban rental markets, this dataset allows analysts
 25. instant_bookable: Indicates whether guests can book the property instantly (True/False).
 
 **DASHBOARD (MongoDB ATLAS)**
+
 ![Los Angeles Airbnb Listings-2](https://github.com/user-attachments/assets/8724d846-7fa3-42d7-92fa-45a0b6ebb674)
 
 **INSIGHTS** 
