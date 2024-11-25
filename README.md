@@ -6,7 +6,7 @@ This dataset provides extensive information about Airbnb properties listed in Lo
 
 **CONTENT**
 
-1. id: Unique identifier assigned to each property listing.
+1. id:Unique identifier assigned to each property listing.
 2. name: Property listing name as provided by the host.
 3. host_id:Unique identifier assigned to the host of the property.
 4. host_name:Name of the host associated with the property.
@@ -163,6 +163,7 @@ Interpretation: A single bathroom is the most common configuration, aligning wit
 **10. Maximize Review Volume:** Actively encourage guests to leave reviews, as they significantly impact property visibility and perceived trustworthiness.
 
 **CONCLUSION**
+
 1. Entire homes/apartments dominate the listings and are the most expensive property type.
 2. Hollywood, Santa Monica, and Venice are the most reviewed neighborhoods, reflecting their tourism appeal.
 3. Properties with superhosts and instant booking features have higher ratings.
